@@ -1,0 +1,31 @@
+.flex {
+    display: flex;
+}
+
+.flex-row {
+    flex-direction: row;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.gap-5 {
+    gap: 5px;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+
+.blog {
+    border-bottom: 1px solid gray;
+}
+
+small {
+    color: gray;
+}
